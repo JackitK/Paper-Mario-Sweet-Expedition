@@ -1,4 +1,4 @@
-# Paper-Mario-Glace-Island
+# Paper-Mario-Sweet-Expedition
 Paper Mario's Sweet Adventure is a mod for Paper Mario 64, featuring Mario's adventure to a new land called Glace Island.  Kolorado has heard rumors of a grand treasure that lies there, and he needs Mario's help to retrieve it. Mario will not embark on this quest alone. 
 
 A couple of his past allies will rejoin him for this adventure, with new twists on their previous abilities.  Along the way, Mario will also meet new partners to help him reach the heart of Glace Island where this legendary treasure lies.
