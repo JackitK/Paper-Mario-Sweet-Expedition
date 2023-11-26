@@ -5,7 +5,7 @@ A couple of his past allies will rejoin him for this adventure, with new twists 
 
 This is a mod of Paper Mario for the N64, you will need to patch the file to a copy of the orginal Paper Mario in order to play.
 
-## Latest verison: v1.0.00 (Offical Release) [Coming Soon]
+## Latest verison: v1.0.00 (Offical Release)
 ---VERSION 1.0.00--
 
 Features:
